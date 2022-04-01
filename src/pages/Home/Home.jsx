@@ -21,7 +21,7 @@ export default function HomeScreen(){
     return (
       <View style={styles.container}>
       <Text style={{color: 'pink'}}
-        onPress={() => Linking.openURL("www.google.com")}>
+        onPress={() => Linking.openURL("https://github.com/Viridiana-24/Catalogo-AWS.git")}>
           GitHub
         </Text>
 
