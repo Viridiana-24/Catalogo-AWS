@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "180197",
+    "slug": "180197",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/",
+    "splash": {
+      "image": "./assets/lib.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/lib.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/lib.png"
+    },
+    "description": "",
+    "githubUrl": "WWW.GOOGLE.COM"
+  }
+}
